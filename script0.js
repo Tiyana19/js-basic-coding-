@@ -1,5 +1,5 @@
             // ROCK, PAPER and SCISSORS Game
-/*
+
 const getUserChoice = userInput => {
     userInput = userInput.toLowerCase();
     if(userInput === 'rock' || userInput === 'paper' || userInput === 'scissors') {
@@ -54,5 +54,5 @@ const playGame = function() {
     console.log(determineWinner(userChoice, computerChoice));
 }
 playGame();
-*/
+
 
